@@ -10,6 +10,6 @@
     "type": "sidebar",
     "title": "New mY Widget",
     "name": "new-my-widget",
-    "channelId": "117404499",
+    "channelId": "117404168",
     "layout": "bootstrap"
 }
